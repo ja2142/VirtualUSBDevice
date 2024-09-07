@@ -5,6 +5,8 @@
 
 #pragma once
 #include <cstdint>
+#include <cstdlib>
+#include <cstdio>
 #include <libudev.h>
 #include <dirent.h>
 #include <string.h>
